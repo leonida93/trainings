@@ -11,3 +11,6 @@ build/
 
 # MySQL
 mysql_data/
+
+test.txt
+test.txt.pub
