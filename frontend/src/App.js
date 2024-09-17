@@ -38,8 +38,8 @@ const App = () => {
   return (
     <div className="App">
       <h1>My App</h1>
-      <p>{message}</p> // Display the message from the backend
-      <p>{backendStatus}</p> // Display the backend status
+      <p>{message}</p> 
+      <p>{backendStatus}</p> 
       <h2>Users:</h2>
       <ul>
         {users.map(user => (
